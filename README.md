@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Anthony%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=140&section=header&text=Anthony%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -140,19 +140,9 @@
 
 ---
 
-## 📈 Actividad en GitHub
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonylopez-dev&theme=tokyo-night&hide_border=true&area=true&color=10B981&line=10B981&point=ffffff&area_color=064E3B" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=3000&color=64748B&center=true&vCenter=true&width=700&height=40&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=750&height=50&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
 
 <br/>
 
@@ -160,6 +150,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" width="100%"/>
 
 </div>

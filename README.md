@@ -1,77 +1,152 @@
-# ¡Hola! Soy Anthony López Guerrero 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/anthonylpz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anthonyxm15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+# ¡Hola! Soy Anthony López 👋
 
-### 🚀 Data Scientist | Especialista en Machine Learning & IA
-Ingeniero en Tecnologías de la Información con doble posgrado en **Visual Analytics, Big Data e Inteligencia Artificial**. Me especializo en construir soluciones *end-to-end* robustas, desde la ingesta de datos a gran escala hasta el despliegue de modelos predictivos y arquitecturas de microservicios en producción.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyendo+soluciones+end-to-end+en+producci%C3%B3n" alt="Typing SVG" />
 
-* 📍 Ambato, Ecuador (Disponible para roles remotos internacionales)
-* 🛠️ Entorno local: VS Code + Miniforge3 + Python (Git Bash workflow)
-* 🧠 Enfocado en optimización de código, explicabilidad de modelos (SHAP) y eficiencia en producción.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonylpz)
+[![TechPulse](https://img.shields.io/badge/🚀%20TechPulse-Live%20App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
+[![Diabetes App](https://img.shields.io/badge/🔬%20Diabetes%20App-Live-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyxm15@gmail.com)
 
-## 🌟 Proyecto Destacado: TechPulse — Product Intelligence Platform
-
-<p align="left">
-  <a href="https://techpulse-intelligence.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-Streamlit-10B981?style=flat-square&logo=streamlit" alt="Streamlit App"></a>
-  <a href="https://techpulse-api-xxxr.onrender.com/docs" target="_blank"><img src="https://img.shields.io/badge/API_Docs-FastAPI-06B6D4?style=flat-square&logo=fastapi" alt="FastAPI Docs"></a>
-  <a href="https://github.com/anthonylopez-dev/techpulse-product-intelligence"><img src="https://img.shields.io/badge/Repo-GitHub-022C22?style=flat-square&logo=github" alt="GitHub Repo"></a>
-</p>
-
-Plataforma bilingüe (ES/EN) de inteligencia de productos digitales que analiza **152,556 productos** lanzados en Product Hunt (2014–2024). Incluye *forecasting* de tendencias, segmentación semántica de mercado y un motor de recomendación híbrido optimizado para entornos con restricciones de memoria.
-
-### 📊 Logros Técnicos & Decisiones de Arquitectura:
-* **Despliegue Defensivo (Render Free):** Implementación de fallback mediante **TF-IDF (8000 features)** e índice *lite* de 30k productos para mitigar el límite de 512MB de RAM (evitando errores OOM de PyTorch).
-* **Modelado Avanzado:** Segmentación de mercado en 10 clusters (MiniBatchKMeans + reducción de dimensionalidad con UMAP) y *forecasting* robusto mediante Holt-Winters (descartando Prophet por incompatibilidades de dependencias Stan en entornos Windows).
-* **Entregables de Negocio:** Pipeline automatizado bilingüe para la generación de reportes ejecutivos en PDF de alta fidelidad utilizando **ReportLab**.
+</div>
 
 ---
 
-## 🛠️ Más Proyectos del Portafolio
+## 🧠 Sobre mí
 
-### 🩺 01. Riesgo de Diabetes con XGBoost y SHAP
-* **Stack:** Python, XGBoost, SHAP, SMOTE, Streamlit, Power BI.
-* **Métricas:** **ROC-AUC de 0.8900** y CV ROC-AUC (5-fold) de **0.9383 ± 0.007**.
-* **Impacto:** Explicabilidad clínica completa aislando la glucosa como la variable de mayor impacto (SHAP=1.3447).
-* 🔗 [Ver Repositorio](https://github.com/anthonylopez-dev/diabetes-prediction-xgboost-shap)
-
-### 📈 02. Mercado Laboral y Pobreza en Ecuador (2007–2024)
-* **Stack:** Python, Scikit-learn, Power BI, ReportLab, API Banco Mundial.
-* **Modelo:** Regresión Lineal validada mediante **LOOCV** ($R^2=0.903$, MAE=0.717pp).
-* **Impacto:** Dashboard interactivo en Power BI (3 páginas) e informe automatizado analizando el impacto del COVID-19 y la brecha rural-urbana.
-* 🔗 [Ver Repositorio](https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis)
-
-### 🗺️ 03. Percepción Digital del Turismo (TripAdvisor NLP)
-* **Stack:** TextBlob, pysentimiento (BERT), Langdetect, Looker Studio.
-* **Modelo:** Clasificador dual ES/EN con **74.4% de precisión global** sobre reseñas de destinos clave de Ecuador.
-* 🔗 [Ver Repositorio](https://github.com/anthonylopez-dev/tripadvisor-ecuador-tourism-sentiment)
+```python
+anthony = {
+    "rol":        "Data Scientist",
+    "educacion":  ["MSc Visual Analytics & Big Data — UNIR",
+                   "Ingeniería en TI — UTA"],
+    "stack":      ["Python", "XGBoost", "BERT", "FastAPI", "Streamlit"],
+    "enfoque":    "end-to-end: datos → modelo → producción",
+    "ubicacion":  "Ambato, Ecuador 🇪🇨",
+    "modalidad":  "Remoto · Abierto a reubicación",
+}
+```
 
 ---
 
-## 🧰 Toolkit Tecnológico
+## 🛠 Stack Tecnológico
 
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes & Core** | Python, SQL, Git, Git Bash |
-| **Data Science & ML** | SciKit-Learn, XGBoost, UMAP, SMOTE, SHAP, Statsmodels |
-| **NLP & Deep Learning** | Sentence Transformers, PySentimiento (BERT), TextBlob |
-| **Ingeniería & Deploy** | FastAPI, Streamlit, Render, Streamlit Cloud, Miniforge3 |
-| **BI & Visualización** | Power BI, Looker Studio, Plotly, ReportLab (PDF Generation) |
+**Lenguajes & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Machine Learning & Modelado**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-10B981?style=flat-square&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-6366F1?style=flat-square&logoColor=white)
+![UMAP](https://img.shields.io/badge/UMAP-764ABC?style=flat-square&logoColor=white)
+
+**NLP & Deep Learning**
+
+![BERT](https://img.shields.io/badge/BERT-4B0082?style=flat-square&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-7C3AED?style=flat-square&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-0EA5E9?style=flat-square&logoColor=white)
+
+**Deploy & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**BI & Visualización**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Big Data**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🌐 [TechPulse — Product Intelligence Platform](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
+
+> Plataforma end-to-end que analiza **152,556 productos** de Product Hunt (2014–2024)
+
+| Componente | Detalle |
+|------------|---------|
+| 📊 Segmentación | TF-IDF + MiniBatchKMeans + UMAP → 10 segmentos de mercado |
+| 📈 Forecasting | Holt-Winters + STL Decomposition |
+| 🤖 Recomendación | Motor híbrido: Sentence Transformers 384d / TF-IDF fallback |
+| ⚙️ Backend | FastAPI · 7 endpoints · Swagger docs |
+| 🖥️ Frontend | Streamlit bilingüe ES/EN · desplegado en Streamlit Cloud |
+
+[![Live App](https://img.shields.io/badge/▶%20Ver%20App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
+[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
+
+---
+
+### 🔬 [Predicción de Riesgo de Diabetes · XGBoost + SHAP](https://github.com/anthonylopez-dev/diabetes-prediction-xgboost-shap)
+
+> Modelo de clasificación binaria con explicabilidad clínica
+
+- 🎯 **ROC-AUC 0.89** · CV ROC-AUC **0.9383 ± 0.007** (5-fold)
+- ⚖️ Balanceo con **SMOTE** · Explicabilidad con **SHAP** (glucosa: mean SHAP = 1.34)
+- 📄 Generación automática de **informes PDF** con ReportLab
+
+[![Live App](https://img.shields.io/badge/▶%20Ver%20App-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
+[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/diabetes-prediction-xgboost-shap)
+
+---
+
+### 🌍 [Análisis de Sentimiento · Turismo Ecuador](https://github.com/anthonylopez-dev/tripadvisor-ecuador-tourism-sentiment)
+
+> Pipeline NLP dual ES/EN sobre reseñas de TripAdvisor
+
+- 🧠 **BERT** (pysentimiento) para español · **TextBlob** para inglés
+- 🎯 Precisión global **74.4%** · 8 destinos turísticos ecuatorianos
+- 📊 Dashboard interactivo en **Looker Studio**
+
+[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/tripadvisor-ecuador-tourism-sentiment)
+
+---
+
+### 📊 [Mercado Laboral y Pobreza en Ecuador 2007–2024](https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis)
+
+> Análisis longitudinal de 17 años con datos del INEC y Banco Mundial
+
+- 📉 Regresión lineal validada por **LOOCV · R²=0.903 · MAE=0.717pp**
+- 🌐 Consumo de **API Banco Mundial** + datos INEC-ENEMDU
+- 📑 Informe ejecutivo automatizado en **PDF** con ReportLab
+
+[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Anthony's Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide=html,css,tex" alt="Top Languages" height="160">
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)](https://github.com/anthonylopez-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es)](https://github.com/anthonylopez-dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anthonylopez-dev&theme=tokyonight&hide_border=true&locale=es)](https://github.com/anthonylopez-dev)
+
+</div>
 
 ---
-<p align="center">
-  <i>"La consistencia en la arquitectura y la claridad en los datos definen el éxito en producción."</i>
-</p>
+
+<div align="center">
+
+*"Sin datos solo eres otra persona con una opinión."*
+**— W. Edwards Deming**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonylopez-dev.anthonylopez-dev)
+
+</div>

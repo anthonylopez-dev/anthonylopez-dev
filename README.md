@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header" width="100%"/>
 
 # ¡Hola! Soy Anthony López 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=700&height=60&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=60&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -137,13 +137,18 @@ anthony = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=6" height="160"/>
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+</a>
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=anthonylopez-dev&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" height="160"/>
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonylopez-dev&theme=tokyo-night&hide_border=true&area=true&color=10B981&line=10B981&point=ffffff" width="95%"/>
+</a>
 
 </div>
 
@@ -151,7 +156,7 @@ anthony = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=64748B&center=true&vCenter=true&width=600&height=40&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
+*"Sin datos solo eres otra persona con una opinión."* — **W. Edwards Deming**
 
 <br/>
 

@@ -1,15 +1,19 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header&text=&fontSize=0" width="100%"/>
+
 # ¡Hola! Soy Anthony López 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyendo+soluciones+end-to-end+en+producci%C3%B3n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=700&height=60&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonylpz)
-[![TechPulse](https://img.shields.io/badge/🚀%20TechPulse-Live%20App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
-[![Diabetes App](https://img.shields.io/badge/🔬%20Diabetes%20App-Live-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyxm15@gmail.com)
+[![TechPulse](https://img.shields.io/badge/🚀_TechPulse-Live_App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
+[![Diabetes App](https://img.shields.io/badge/🔬_Diabetes_App-Live-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
+[![Email](https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyxm15@gmail.com)
+
+<br/>
 
 </div>
 
@@ -19,13 +23,13 @@
 
 ```python
 anthony = {
-    "rol":        "Data Scientist",
-    "educacion":  ["MSc Visual Analytics & Big Data — UNIR",
+    "rol"       : "Data Scientist",
+    "educacion" : ["MSc Visual Analytics & Big Data — UNIR",
                    "Ingeniería en TI — UTA"],
-    "stack":      ["Python", "XGBoost", "BERT", "FastAPI", "Streamlit"],
-    "enfoque":    "end-to-end: datos → modelo → producción",
-    "ubicacion":  "Ambato, Ecuador 🇪🇨",
-    "modalidad":  "Remoto · Abierto a reubicación",
+    "stack"     : ["Python", "XGBoost", "BERT", "FastAPI", "Streamlit"],
+    "enfoque"   : "end-to-end: datos → modelo → producción",
+    "ubicacion" : "Ambato, Ecuador 🇪🇨",
+    "modalidad" : "Remoto · Abierto a reubicación",
 }
 ```
 
@@ -85,10 +89,10 @@ anthony = {
 | 📈 Forecasting | Holt-Winters + STL Decomposition |
 | 🤖 Recomendación | Motor híbrido: Sentence Transformers 384d / TF-IDF fallback |
 | ⚙️ Backend | FastAPI · 7 endpoints · Swagger docs |
-| 🖥️ Frontend | Streamlit bilingüe ES/EN · desplegado en Streamlit Cloud |
+| 🖥️ Frontend | Streamlit bilingüe ES/EN · Streamlit Cloud + Render |
 
-[![Live App](https://img.shields.io/badge/▶%20Ver%20App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
-[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
+[![Live App](https://img.shields.io/badge/▶_Ver_App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
+[![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
 
 ---
 
@@ -100,8 +104,8 @@ anthony = {
 - ⚖️ Balanceo con **SMOTE** · Explicabilidad con **SHAP** (glucosa: mean SHAP = 1.34)
 - 📄 Generación automática de **informes PDF** con ReportLab
 
-[![Live App](https://img.shields.io/badge/▶%20Ver%20App-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
-[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/diabetes-prediction-xgboost-shap)
+[![Live App](https://img.shields.io/badge/▶_Ver_App-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
+[![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/diabetes-prediction-xgboost-shap)
 
 ---
 
@@ -113,7 +117,7 @@ anthony = {
 - 🎯 Precisión global **74.4%** · 8 destinos turísticos ecuatorianos
 - 📊 Dashboard interactivo en **Looker Studio**
 
-[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/tripadvisor-ecuador-tourism-sentiment)
+[![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/tripadvisor-ecuador-tourism-sentiment)
 
 ---
 
@@ -125,7 +129,7 @@ anthony = {
 - 🌐 Consumo de **API Banco Mundial** + datos INEC-ENEMDU
 - 📑 Informe ejecutivo automatizado en **PDF** con ReportLab
 
-[![Repo](https://img.shields.io/badge/📂%20Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis)
+[![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/ecuador-empleo-pobreza-analysis)
 
 ---
 
@@ -133,10 +137,13 @@ anthony = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)](https://github.com/anthonylopez-dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es)](https://github.com/anthonylopez-dev)
+<img src="https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=6" height="160"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anthonylopez-dev&theme=tokyonight&hide_border=true&locale=es)](https://github.com/anthonylopez-dev)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=anthonylopez-dev&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" height="160"/>
 
 </div>
 
@@ -144,9 +151,14 @@ anthony = {
 
 <div align="center">
 
-*"Sin datos solo eres otra persona con una opinión."*
-**— W. Edwards Deming**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=64748B&center=true&vCenter=true&width=600&height=40&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonylopez-dev.anthonylopez-dev)
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonylopez-dev.anthonylopez-dev&left_color=1E293B&right_color=10B981&left_text=visitas)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" width="100%"/>
 
 </div>

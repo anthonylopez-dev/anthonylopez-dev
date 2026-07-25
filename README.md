@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=140&section=header&text=Anthony%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header" width="100%"/>
 
-<br/>
+# ¡Hola! Soy Anthony López 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=55&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=60&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,22 +21,21 @@
 
 ## 🧠 Sobre mí
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=10B981&vCenter=true&width=280&height=160&lines=📍+Ambato%2C+Ecuador+🇪🇨;🌐+Disponible+para+roles+remotos;✈️+Abierto+a+reubicación;🎓+MSc+Visual+Analytics+%26+Big+Data;🔬+4+proyectos+en+producción" alt="Info Typing" />
-
-- 🎓 **MSc Visual Analytics & Big Data** — UNIR
-- 🏫 **Ingeniería en TI** — UTA
-- 🔬 Data Scientist end-to-end: datos → modelo → producción
-- 🚀 Autor de 4 proyectos públicos con datos reales
-- 🛠 Entorno local: VS Code + Miniforge3 + Python
-- 🧩 Enfocado en explicabilidad (SHAP), eficiencia en producción y NLP
-
-<br clear="right"/>
+```python
+anthony = {
+    "rol"       : "Data Scientist",
+    "educacion" : ["MSc Visual Analytics & Big Data — UNIR",
+                   "Ingeniería en TI — UTA"],
+    "stack"     : ["Python", "XGBoost", "BERT", "FastAPI", "Streamlit"],
+    "enfoque"   : "end-to-end: datos → modelo → producción",
+    "ubicacion" : "Ambato, Ecuador 🇪🇨",
+    "modalidad" : "Remoto · Abierto a reubicación",
+}
+```
 
 ---
 
 ## 🛠 Stack Tecnológico
-
-<div align="center">
 
 **Lenguajes & Core**
 
@@ -76,27 +75,21 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-</div>
-
 ---
 
 ## 🚀 Proyectos Destacados
 
 ### 🌐 [TechPulse — Product Intelligence Platform](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=10B981&vCenter=true&width=240&height=80&lines=152%2C556+productos+analizados;10+segmentos+de+mercado;7+endpoints+FastAPI;Bilingüe+ES%2FEN" alt="TechPulse stats" />
-
-> Plataforma end-to-end de inteligencia de productos digitales (2014–2024)
+> Plataforma end-to-end que analiza **152,556 productos** de Product Hunt (2014–2024)
 
 | Componente | Detalle |
 |------------|---------|
-| 📊 Segmentación | TF-IDF + MiniBatchKMeans + UMAP → 10 segmentos |
+| 📊 Segmentación | TF-IDF + MiniBatchKMeans + UMAP → 10 segmentos de mercado |
 | 📈 Forecasting | Holt-Winters + STL Decomposition |
-| 🤖 Recomendación | Sentence Transformers 384d / TF-IDF fallback |
+| 🤖 Recomendación | Motor híbrido: Sentence Transformers 384d / TF-IDF fallback |
 | ⚙️ Backend | FastAPI · 7 endpoints · Swagger docs |
-| 🖥️ Frontend | Streamlit bilingüe ES/EN |
-
-<br clear="right"/>
+| 🖥️ Frontend | Streamlit bilingüe ES/EN · Streamlit Cloud + Render |
 
 [![Live App](https://img.shields.io/badge/▶_Ver_App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
 [![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
@@ -140,9 +133,30 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=750&height=50&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonylopez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+</a>
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/anthonylopez-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonylopez-dev&theme=tokyo-night&hide_border=true&area=true&color=10B981&line=10B981&point=ffffff" width="95%"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Sin datos solo eres otra persona con una opinión."* — **W. Edwards Deming**
 
 <br/>
 

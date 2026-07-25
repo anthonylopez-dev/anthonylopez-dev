@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=140&section=header&text=Anthony%20L%C3%B3pez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
+# Anthony López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=55&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonylpz)
 [![TechPulse](https://img.shields.io/badge/🚀_TechPulse-Live_App-10B981?style=for-the-badge)](https://techpulse-intelligence.streamlit.app/)
 [![Diabetes App](https://img.shields.io/badge/🔬_Diabetes_App-Live-6366F1?style=for-the-badge)](https://diabetes-prediction-xgboost.streamlit.app/)
 [![Email](https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyxm15@gmail.com)
-
-<br/>
 
 </div>
 
@@ -142,14 +138,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=750&height=50&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
-
-<br/>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anthonylopez-dev.anthonylopez-dev&left_color=1E293B&right_color=10B981&left_text=visitas)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=750&height=45&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
 
 </div>

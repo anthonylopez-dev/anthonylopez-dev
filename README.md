@@ -138,6 +138,4 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=750&height=45&lines=%22Sin+datos+solo+eres+otra+persona+con+una+opini%C3%B3n.%22+—+W.+Edwards+Deming" alt="Quote" />
-
 </div>

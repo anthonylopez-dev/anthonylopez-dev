@@ -81,7 +81,7 @@
 
 ### 🌐 [TechPulse — Product Intelligence Platform](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=10B981&vCenter=true&width=240&height=80&lines=152%2C556+productos+analizados;10+segmentos+de+mercado;7+endpoints+FastAPI;Bilingüe+ES%2FEN" alt="TechPulse stats" />
+
 
 > Plataforma end-to-end de inteligencia de productos digitales (2014–2024)
 

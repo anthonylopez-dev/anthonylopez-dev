@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mí
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=10B981&vCenter=true&width=280&height=160&lines=📍+Ambato%2C+Ecuador+🇪🇨;🌐+Disponible+para+roles+remotos;✈️+Abierto+a+reubicación;🎓+MSc+Visual+Analytics+%26+Big+Data;🔬+4+proyectos+en+producción" alt="Info Typing" />
+
 
 - 🎓 **MSc Visual Analytics & Big Data** — UNIR
 - 🏫 **Ingeniería en TI** — UTA

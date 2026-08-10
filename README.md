@@ -1,6 +1,7 @@
 <div align="center">
 
-# Anthony López <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Soy Anthony López
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=55&lines=Data+Scientist+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 

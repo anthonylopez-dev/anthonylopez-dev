@@ -3,7 +3,7 @@
 # Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 # Te saluda Anthony López
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=55&lines=Data+Analyst+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;4+proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=750&height=55&lines=Data+Analyst+%7C+Machine+Learning+%7C+NLP;Construyo+soluciones+end-to-end+en+producci%C3%B3n;Python+%C2%B7+XGBoost+%C2%B7+FastAPI+%C2%B7+Streamlit;Proyectos+desplegados+con+datos+reales" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 - 🎓 **MSc Visual Analytics & Big Data** — UNIR
 - 🏫 **Ingeniería en TI** — UTA
 - 🔬 Data Analyst end-to-end: datos → modelo → producción
-- 🚀 Autor de 4 proyectos públicos con datos reales
+- 🚀 Autor de proyectos públicos con datos reales
 - 🛠 Entorno local: VS Code + Miniforge3 + Python
 - 🧩 Enfocado en explicabilidad (SHAP), eficiencia en producción y NLP
 
@@ -78,6 +78,22 @@
 ---
 
 ## 🚀 Proyectos Destacados
+
+<a name="compras-publicas-de-ecuador"></a>
+
+### [Compras públicas de Ecuador · Mantenimiento vehicular](https://github.com/anthonylopez-dev/compras-publicas-ecuador/blob/main/docs/fase-5-caso-de-estudio.md)
+
+> Tablero para que talleres y pymes elijan qué entidades públicas seguir y qué procesos revisar.
+
+<a href="https://compras-publicas-ecuador-vehicular.anthonyxm15.chatgpt.site"><img src="https://raw.githubusercontent.com/anthonylopez-dev/compras-publicas-ecuador/main/docs/portada.png" alt="Abrir el tablero de mantenimiento vehicular de Ecuador" width="600"></a>
+
+El piloto identificó **239 aperturas de 181 entidades** en 2025. Como 145 entidades abrieron un solo proceso, el tablero combina el seguimiento de compradores recurrentes con una búsqueda por rubro.
+
+Concilié 12 cortes de SERCOP, estructuré los datos con Python y PostgreSQL y publiqué el análisis en Power BI y en la web. [Fuente de SERCOP](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos/) · [CC BY 3.0 Ecuador](https://creativecommons.org/licenses/by/3.0/ec/).
+
+[Explorar el tablero](https://compras-publicas-ecuador-vehicular.anthonyxm15.chatgpt.site) · [Leer el caso](https://github.com/anthonylopez-dev/compras-publicas-ecuador/blob/main/docs/fase-5-caso-de-estudio.md) · [Video narrado (1:27)](https://github.com/anthonylopez-dev/compras-publicas-ecuador/blob/main/dashboards/presentacion.mp4) · [Repositorio](https://github.com/anthonylopez-dev/compras-publicas-ecuador)
+
+---
 
 ### 🌐 [TechPulse — Product Intelligence Platform](https://github.com/anthonylopez-dev/techpulse-product-intelligence)
 

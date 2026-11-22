@@ -89,7 +89,7 @@
 
 El piloto identificó **239 aperturas de 181 entidades** en 2025. Como 145 entidades abrieron un solo proceso, el tablero combina el seguimiento de compradores recurrentes con una búsqueda por rubro.
 
-Concilié 12 cortes de SERCOP, estructuré los datos con Python y PostgreSQL y publiqué el análisis en Power BI y en la web. [Fuente de SERCOP](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos/) · [CC BY 3.0 Ecuador](https://creativecommons.org/licenses/by/3.0/ec/).
+Concilié 12 cortes de SERCOP, estructuré los datos con Python y PostgreSQL y preparé el informe de Power BI y publiqué el tablero web. [Fuente de SERCOP](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos/) · [CC BY 3.0 Ecuador](https://creativecommons.org/licenses/by/3.0/ec/).
 
 [Explorar el tablero](https://compras-publicas-ecuador-vehicular.anthonyxm15.chatgpt.site) · [Leer el caso](https://github.com/anthonylopez-dev/compras-publicas-ecuador/blob/main/docs/fase-5-caso-de-estudio.md) · [Descargar video narrado (1:27)](https://raw.githubusercontent.com/anthonylopez-dev/compras-publicas-ecuador/main/dashboards/presentacion.mp4) · [Repositorio](https://github.com/anthonylopez-dev/compras-publicas-ecuador)
 
